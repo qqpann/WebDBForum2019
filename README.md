@@ -9,8 +9,8 @@
 
 ## LICENSE
 
+Please cite my paper below if you used it.
 引用する際は以下の情報を参考にしてください．
-Please reference my paper below if you used it.
 
 <https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=199052&item_no=1>
 
